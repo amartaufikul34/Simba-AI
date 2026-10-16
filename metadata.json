@@ -1,0 +1,6 @@
+{
+  "name": "SIMBA AI - Sistem Peminjaman & Pemantauan BMN SDM Digital",
+  "description": "Sistem Peminjaman & Pemantauan Barang Milik Negara (BMN) berbasis AI terpadu untuk tim publikasi dan pengembangan sumber daya manusia di bidang digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
